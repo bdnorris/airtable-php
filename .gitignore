@@ -1,1 +1,8 @@
 .idea
+*.lock
+
+*.phar
+
+vendor/
+
+bookmarks/variables\.php
